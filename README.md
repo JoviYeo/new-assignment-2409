@@ -1,6 +1,7 @@
 ### Starting The Project
 1. Start the backend server
-2. run npm start on project file directory
+2. run npm install on project directory
+2. run npm start on project directory
 
 ### Assignment Completion Checklist
 1. Login/Logout function working
